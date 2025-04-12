@@ -114,7 +114,7 @@ This API allows you to search for books by title, author, or genre, and retrieve
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/book-explorer.git](https://github.com/Satvikpatil7/Book-Explorer.git)
+   git clone https://github.com/Satvikpatil7/Book-Explorer.git
    ```
 
 2. Navigate to the project folder:
@@ -187,5 +187,5 @@ C:.
 - **Error Handling:** Improve error handling to display user-friendly messages for API errors.
 - **User Notes:** Allow users to add notes or tags when adding books to the favorites list.
 
-
+---
 
