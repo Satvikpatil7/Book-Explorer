@@ -129,7 +129,7 @@ This API allows you to search for books by title, author, or genre, and retrieve
 
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. Open your browser and go to `http://localhost:3000` to see the app.
