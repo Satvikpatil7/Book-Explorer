@@ -181,11 +181,5 @@ C:.
 
 ---
 
-## Future Improvements
 
-- **Pagination:** Implement pagination for search results if the Google Books API returns too many results.
-- **Error Handling:** Improve error handling to display user-friendly messages for API errors.
-- **User Notes:** Allow users to add notes or tags when adding books to the favorites list.
-
----
 
